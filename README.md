@@ -21,6 +21,7 @@ It contains the following 6 fields:
  Naive Bayes is a probabilistic classifier, meaning that for a document d, out of all classes c∈C the classifier returns the class ˆ c which has the maximum posterior probability given the document. In Eq. 1 we use the hat notation to mean “our estimate of the correct class”.
 
 c = argmax P(c|d) where c∈C
+
 Naive Bayes is a generative model that make the bag of words assumption (position doesn’t matter) and the conditional in dependence assumption (words are conditionally independent of each other given the class).
 Naive Bayes with binary features seems to work better for many text classification tasks.
 
