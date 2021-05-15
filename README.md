@@ -6,6 +6,7 @@ Sentiment analysis of in the domain of micro-blogging is a relatively new resear
 ## Dataset Used: -
 The dataset used in this project is taken from Kaggle.com. 
 https://www.kaggle.com/kazanova/sentiment140
+
 This is the direct link of dataset.
 This is the sentiment140 dataset.
 It contains 1,600,000 tweets extracted using the twitter api. The tweets have been annotated (0 = negative, 2 = neutral, 4 = positive) and they can be used to detect sentiment.
