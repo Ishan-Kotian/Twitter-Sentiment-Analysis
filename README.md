@@ -32,6 +32,6 @@ We examined the response rates for various types of Twitter spam and found that 
 Nowadays, sentiment analysis or opinion mining is a hot topic in machine learning. We are still far to detect the sentiments of s corpus of texts very accurately because of the complexity in the English language and even more if we consider other languages such as Chinese.
  In this project we tried to show the basic way of classifying tweets into positive or negative category using Naive Bayes as baseline and how language models are related to the Naïve Bayes and can produce better results. We could further improve our classifier by trying to extract more features from the tweets, trying different kinds of features.
 
-## Kaggle Notebook link: - https://www.kaggle.com/lykin22/twitter-sentiment-analysis-with-naive-bayes-85-acc
+### Kaggle Notebook link: - https://www.kaggle.com/lykin22/twitter-sentiment-analysis-with-naive-bayes-85-acc
 
 
