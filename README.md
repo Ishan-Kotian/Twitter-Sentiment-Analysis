@@ -1,5 +1,6 @@
 # Twitter-Sentiment-Analysis
-![image](https://user-images.githubusercontent.com/55652596/118372643-5a6f4a00-b5d0-11eb-9fc1-0576ade729f9.png)
+![image](https://user-images.githubusercontent.com/55652596/121407386-ddd84d00-c97c-11eb-9657-028fe1381116.png)
+
 
 ## Problem Definition: -
 Sentiment analysis of in the domain of micro-blogging is a relatively new research topic so there is still a lot of room for further research in this area. Decent amount of related prior work has been done on sentiment analysis of user reviews, documents, web blogs/articles and general phrase level sentiment analysis. These differ from twitter mainly because of the limit of 140 characters per tweet which forces the user to express opinion compressed in very short text. The best results reached in sentiment classification use supervised learning techniques such as Naive Bayes and Support Vector Machines, but the manual labelling required for the supervised approach is very expensive. Some work has been done on unsupervised and semi-supervised approaches, and there is a lot of room of improvement. Various researchers testing new features and classification techniques often just compare their results to base-line performance. Hate Speech in the form of racism and sexism has become a nuisance on twitter and it is important to segregate these sorts of tweets from the rest.
